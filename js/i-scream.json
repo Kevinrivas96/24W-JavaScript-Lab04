@@ -38,7 +38,7 @@
             "image": "https://kevinrivas96.github.io/24W-JavaScript-Lab04/images/strawberry-sprinkle.svg"
         },
         {
-            "name": "Vanilla With Chocolate",
+            "name": "Vanilla Chocolate",
             "calories": 270,
             "type": "ice-cream",
             "ingredients": [
@@ -46,7 +46,7 @@
                 "Chocolate Chips",
                 "Sprinkles"
             ],
-            "image": "https://kevinrivas96.github.io/24W-JavaScript-Lab04/images/ice-cream-xtra1.svg"
+            "image": "https://kevinrivas96.github.io/24W-JavaScript-Lab04/images/ice-cream-xtra2.svg"
         },
         {
             "name": "Super Lemon",
@@ -57,7 +57,7 @@
                 "Whipping Cream",
                 "Condensed Milk"
             ],
-            "image": "https://kevinrivas96.github.io/24W-JavaScript-Lab04/images/ice-cream-xtra2.svg"
+            "image": "https://kevinrivas96.github.io/24W-JavaScript-Lab04/images/ice-cream-xtra1.svg"
         }
     ]
 }
