@@ -18,7 +18,7 @@
         {
             "name": "Peach Mango",
             "calories": 250,
-            "type": "milkshake-type ice-cream",
+            "type": "milkshake",
             "ingredients": [
                 "Peach Syrup",
                 "Mango Chunks",
@@ -38,26 +38,26 @@
             "image": "https://kevinrivas96.github.io/Lab04/images/strawberry-sprinkle.svg"
         },
         {
-            "name": "Strawberry Sprinkle",
-            "calories": 300,
+            "name": "Vanilla With Chocolate",
+            "calories": 270,
             "type": "ice-cream",
             "ingredients": [
-                "Strawberry Syrup",
-                "Sprinkles",
-                "Chocolate Base"
+                "Vanilla Syrup",
+                "Chocolate Chips",
+                "Sprinkles"
             ],
-            "image": "https://kevinrivas96.github.io/Lab04/images/strawberry-sprinkle.svg"
+            "image": "https://kevinrivas96.github.io/Lab04/images/ice-cream-xtra1.svg"
         },
         {
-            "name": "Strawberry Sprinkle",
-            "calories": 300,
+            "name": "Super Lemon",
+            "calories": 150,
             "type": "ice-cream",
             "ingredients": [
-                "Strawberry Syrup",
-                "Sprinkles",
-                "Chocolate Base"
+                "Lemon Flavour",
+                "Whipping Cream",
+                "Condensed Milk"
             ],
-            "image": "https://kevinrivas96.github.io/Lab04/images/strawberry-sprinkle.svg"
+            "image": "https://kevinrivas96.github.io/Lab04/images/ice-cream-xtra2.svg"
         }
     ]
 }
