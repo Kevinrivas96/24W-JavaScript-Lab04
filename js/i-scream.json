@@ -13,7 +13,7 @@
                 "Peppermint Sprinkles",
                 "Vanilla Base"
             ],
-            "image": "https://kevinrivas96.github.io/Lab04/images/chocolate-mint.svg"
+            "image": "https://kevinrivas96.github.io/24W-JavaScript-Lab04/images/chocolate-mint.svg"
         },
         {
             "name": "Peach Mango",
@@ -24,7 +24,7 @@
                 "Mango Chunks",
                 "Vanilla Base"
             ],
-            "image": "https://kevinrivas96.github.io/Lab04/images/peach-mango.svg"
+            "image": "https://kevinrivas96.github.io/24W-JavaScript-Lab04/images/peach-mango.svg"
         },
         {
             "name": "Strawberry Sprinkle",
@@ -35,7 +35,7 @@
                 "Sprinkles",
                 "Chocolate Base"
             ],
-            "image": "https://kevinrivas96.github.io/Lab04/images/strawberry-sprinkle.svg"
+            "image": "https://kevinrivas96.github.io/24W-JavaScript-Lab04/images/strawberry-sprinkle.svg"
         },
         {
             "name": "Vanilla With Chocolate",
@@ -46,7 +46,7 @@
                 "Chocolate Chips",
                 "Sprinkles"
             ],
-            "image": "https://kevinrivas96.github.io/Lab04/images/ice-cream-xtra1.svg"
+            "image": "https://kevinrivas96.github.io/24W-JavaScript-Lab04/images/ice-cream-xtra1.svg"
         },
         {
             "name": "Super Lemon",
@@ -57,7 +57,7 @@
                 "Whipping Cream",
                 "Condensed Milk"
             ],
-            "image": "https://kevinrivas96.github.io/Lab04/images/ice-cream-xtra2.svg"
+            "image": "https://kevinrivas96.github.io/24W-JavaScript-Lab04/images/ice-cream-xtra2.svg"
         }
     ]
 }
