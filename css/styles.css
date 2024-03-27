@@ -39,6 +39,10 @@ section {
 	margin-bottom: 5rem;
 }
 
+section article:nth-child(odd) {
+	background-color: #21213f;
+}
+
 section article {
 	color: #fdf5c9;
 	background-color: #1b1b32;
@@ -55,7 +59,6 @@ section article {
 
 section article:hover {
 	transform: scale(1.02);
-	background-color: #0a0a23;
 }
 
 article img {
