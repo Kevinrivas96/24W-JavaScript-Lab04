@@ -7,6 +7,9 @@ body {
 	width: 100vw;
 	margin: 0 auto;
 
+	color: #fff;
+	background-color: #0a0a23;
+
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -15,7 +18,7 @@ body {
 /* header styles */
 
 h1 {
-	color: blue;
+	color: chocolate;
 	font-size: 4rem;
 	text-align: center;
 }
@@ -29,7 +32,7 @@ header p {
 
 /* section styles */
 section {
-	width: 95vw;
+	width: 85vw;
 	display: flex;
 	justify-content: space-evenly;
 	gap: 10px;
@@ -37,15 +40,22 @@ section {
 }
 
 section article {
+	color: #fdf5c9;
+	background-color: #1b1b32;
 	border: 1px solid black;
-	box-shadow: 0 2px 14px grey;
-	padding: 2.5%;
-	width: 35%;
-
+	box-shadow: 2px 2px 6px gray;
+	padding-block: 2.5%;
+	width: 60%;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 
+	transition: all .2s ease-in;
+}
+
+section article:hover {
+	transform: scale(1.02);
+	background-color: #0a0a23;
 }
 
 article img {
@@ -59,11 +69,12 @@ section p {
 }
 
 section ul {
+	color: #c2f2d0;
 	margin-top: 0;
 }
 
 h2 {
-	color: chocolate;
+	color: #ffc5d9;
 	font-size: 1.6rem;
 	margin-bottom: 30px;
 }
